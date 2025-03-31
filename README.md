@@ -1,5 +1,5 @@
 # dojo
-coding dojo - practice space for the real world
+coding dojo - "Do you think how fast I am has anything to do with my muscles in this place? Free your mind."
 
 ## repo layout
 `python` - python exercises/code examples
